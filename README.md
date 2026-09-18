@@ -1,17 +1,8 @@
 # 🍄 Mushroom Edibility Classification
 **KNN & Random Forest with R-Shiny Dashboard**
 
-> Data Mining dan Visualisasi - 
+> Data Mining & Visualization - 
 > Institut Teknologi Sepuluh Nopember (ITS) Surabaya
-
----
-
-## 👥 Team
-| Name | NRP |
-|---|---|
-| Akbar Razan | 5003221150 |
-| Fadhil Rahman Saputra | 5003231174 |
-| Khairunnisa Cahya Nagari | 5003231186 |
 
 ---
 
