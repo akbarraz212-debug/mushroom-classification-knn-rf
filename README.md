@@ -56,7 +56,7 @@ The dashboard includes 5 interactive modules:
 - **Database** — full mushroom dataset with filters
 - **Authors** — team information
 
-🔗 **Live App:** [akbarrazan.shinyapps.io/mushrooms_dashboards]
+🔗 [View Dashboard Here!](https://akbarrazan.shinyapps.io/mushrooms_dashboards/)
 
 ---
 
